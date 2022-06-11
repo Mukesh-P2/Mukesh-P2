@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Mukesh Chandra Pattnayak
+- 👋 Hi, I'm Mukesh
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Python
 - 📫 You can reach me at mukeshpattnayak321@gmail.com
